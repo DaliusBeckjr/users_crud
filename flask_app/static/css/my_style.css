@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    margin: 0 auto;
+    padding: 34px 90px 34px;
+}
